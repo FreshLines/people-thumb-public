@@ -5,4 +5,4 @@ services:
     ports:
      - "3000:3000"
     volumes:
-     - /Library/WebServer/Documents/people_thumb:/srv/www/people_thumb
+     - /Library/WebServer/Documents/people-thumb-public:/srv/www/people_thumb

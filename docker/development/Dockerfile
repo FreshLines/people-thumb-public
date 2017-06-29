@@ -9,4 +9,5 @@ ENV PATH /srv/www/people_thumb/node_modules/.bin:$PATH
 # run npm link
 run npm install
 run npm rebuild node-sass
-CMD gulp
+# Leave sleep up for testing daemon
+CMD sleep 100000

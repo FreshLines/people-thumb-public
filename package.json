@@ -2,7 +2,7 @@
   "name": "people-thumb",
   "version": "0.0.1",
   "private": true,
-  "main": "app.js",
+  "main": "lib/people_thumb.js",
   "scripts": {
     "start": "node lib/people_thumb.js",
     "test": "NODE_ENV=test mocha --compilers coffee:coffeescript/register --recursive test",

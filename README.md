@@ -43,7 +43,6 @@ We have a couple Docker files in this demo.  One for running a development envir
 	* mkdir /tmp/face_recognition_images
     * TODO: Add this in the Dockerfile
 
-
 ## Running test
 * docker exec -it development_web_1 bash
 * npm test
