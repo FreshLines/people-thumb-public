@@ -20,9 +20,9 @@ We have a couple Docker files in this demo.  One for running a development envir
 
 ## Setup Development Environment
 
-* git clone git@github.com:FreshLines/people_thumb.git
+* git clone git@github.com:FreshLines/people-thumb-public.git
 
-* cd people_thumb
+* cd people-thumb-public
 
 * Copy the example docker compose file and change the local path in volumes to the root of your project
 
