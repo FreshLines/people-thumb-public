@@ -61,3 +61,4 @@ node_modules/
 .nyc_output
 .sass-cache
 .editorconfig
+config/config.js

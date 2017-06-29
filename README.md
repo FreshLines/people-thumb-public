@@ -29,6 +29,12 @@ We have a couple Docker files in this demo.  One for running a development envir
 	* cp ./docker/development/docker-compose.yml.example ./docker/development/docker-compose.yml
     * vim ./docker/development/docker-compose.yml
 
+* copy the example config files over to the root/config folder and change the paths for the develompent settings.
+
+    * cp ./config/config.example.js ./config/config.js
+    * vim ./config/config.js
+
+
 * docker-compose --file ./docker/development/docker-compose.yml up
 * Note: if on mac you may need to open the docker app and add your directory to the file sharing in preferences
 
