@@ -1,0 +1,12 @@
+{ 
+          "ResponseMetadata": { "RequestId": "b34e751f-64ef-5d75-8fcf-24a4893a9f6c" }, 
+          "Messages": [ 
+            { 
+              "MessageId": "22c3384a-a627-4a16-8b45-a993a717c8fa",
+              "ReceiptHandle": "AQEB1cr3kbAcoTBsG5gdRpA17k+5LKH3YGhP0h/q2+JdiatCAC9NAWXlbjrFc17Ju2LSyAHaYuMTnqLpgjC8IaVUoFdOjnhtxs9cbn2gf4EhP/hoXUvDkCmxMUzCCW0oVYirILGJ2u9t41XHj9g1OUJnNvPDJ3tEqQzX1inMUnQYePRnlAImfdkz9f7SrChN7+ev16xLcrpaueNJMoQiB/wrsCPh1mSZBKTrFrUDaZuRDACDEPuemnxkL5ux22113rHDZtMc3apl1pWQ4E8ZuoEg8P9EAMlsR+aGpk6DoNrdl2xhtX403hLra4idS7kFhRiQ1hIgtJWaeF5i2o3K6Cw7S26QCm8Bu4fKrAb0uj1NFHolAGlwQEBSLKPF05luhM8j",
+              "MD5OfBody": "4ca425e21c0bdbb8e1a6162d11f40d8c",
+              "Body": "{\"source\": \"https://s3.amazonaws.com/test-bucket/IMG_1134.JPG\", \"output\": \"s3://test-bucket/IMG_1134-scaled.JPG\", \"outputQueue\": \"test-output-queue\"}",
+              "Attributes": [] 
+            } 
+          ] 
+        }
